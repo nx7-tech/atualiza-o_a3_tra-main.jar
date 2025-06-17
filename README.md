@@ -34,7 +34,7 @@ PARA ACESSAR O BANCO DE DADOS, DEVEM SER INSERIDAS AS SEGUNTE INFORMAÇÕES
 
 URL = jdbc:mysql://localhost:3306/a3?useSSL=false&serverTimezone=UTC
 USUARIO = root
-SENHA = !tAtUrBiNo
+SENHA = "sua senha do banco de dados"
 
 
 
